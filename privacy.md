@@ -1,6 +1,6 @@
 # X/Twitter Spam Filter - Privacy Policy
 
-Last Updated: [Current Date]
+Last Updated: [4/30/2025]
 
 ## Overview
 X/Twitter Spam Filter is a browser extension that helps users filter spam comments on X/Twitter. This privacy policy explains how we handle your data.
